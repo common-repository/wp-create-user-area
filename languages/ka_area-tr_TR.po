@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP K_USER_AREA\n"
+"POT-Creation-Date: 2014-11-03 23:17+0100\n"
+"PO-Revision-Date: 2014-11-03 23:19+0100\n"
+"Last-Translator: kuaza <kuaza.ca@gmail.com>\n"
+"Language-Team: kuaza <kuaza.ca@gmail.com>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;_\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\plugins"
+"\\k_new_profil_area\n"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_new_profil_area/index.php:86
+msgid "Extra fields"
+msgstr "Ekstra alanlar"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_new_profil_area/index.php:105
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_new_profil_area/index.php:107
+#, php-format
+msgid "Area: %s"
+msgstr "Alan: %s"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_new_profil_area/index.php:235
+msgid "How many fields you want to create?"
+msgstr "Kaç tane yeni alan oluşturmak istersiniz ?"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_new_profil_area/index.php:240
+msgid "All user area"
+msgstr "Bütün kullanıcı alanları"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_new_profil_area/index.php:244
+msgid "Only admin edit (show)"
+msgstr "Sadece admin görebilir ve düzenleyebilir yap"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_new_profil_area/index.php:246
+msgid "Clean HTML and JavaScript code"
+msgstr "Php, HTML, JavaScript kodlarını engelle (admin etkilenmez)"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_new_profil_area/index.php:248
+msgid "Title for area"
+msgstr "Bu kullanıcı alanı için isim"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_new_profil_area/index.php:261
+msgid "Save"
+msgstr "Kaydet"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_new_profil_area/index.php:267
+msgid "Manuel add themes"
+msgstr "Temaya el ile ekleme"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_new_profil_area/index.php:304
+msgid "Kuaza User area"
+msgstr "Kuaza kullanıcı alanları"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_new_profil_area/index.php:307
+msgid "Show kuaza new user area.."
+msgstr "Kuaza yeni kullanıcı alanlarını gösterin.."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_new_profil_area/index.php:342
+msgid "New title"
+msgstr "Yeni başlık"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_new_profil_area/index.php:352
+msgid "Title:"
+msgstr "Başlık"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_new_profil_area/index.php:357
+msgid "Select area:"
+msgstr "Göstermek istediğiniz alanı seçin:"
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_new_profil_area/index.php:367
+msgid "The ad will be shown outside of the single or author page."
+msgstr ""
+"Yazar ve tekil yazı sayfaları haricindeki sayfalarda göstermek istediğiniz "
+"kod yada yazı."
+
+#: C:\wamp\www\wordpress\wp-content\plugins\k_new_profil_area/index.php:372
+msgid "Only single (post) page"
+msgstr ""
+"Sadece yazı sayfasında göster (diğer sayfalarda üstdeki alanda yazdıklarınız "
+"çıkar)"
+
+#~ msgid "In order to see this content you need to upgrade your membership."
+#~ msgstr "Bu içeriği görebilmek için üyeliğinizi yükseltmeniz gereklidir."
+
+#~ msgid "Wordpress hide post, category, tags..."
+#~ msgstr "WordPress yazilari, kategorileri, etiketleri gizle"
+
+#~ msgid "<hr>New group (role) created!"
+#~ msgstr "<hr>Yeni grup (role) olusturuldu."
+
+#~ msgid "This group (role) already exists."
+#~ msgstr "Bi grup daha onceden olusturulmus, farkli bir isim ile deneyin."
+
+#~ msgid "Update success.."
+#~ msgstr "Güncelleme başarılıyla gerçekleştirildi."
+
+#~ msgid "Default groups"
+#~ msgstr "Default gruplar"
+
+#~ msgid "Visitors"
+#~ msgstr "Ziyaretciler"
+
+#~ msgid ""
+#~ "Post or page groups selected here by default when editing the selected "
+#~ "income."
+#~ msgstr ""
+#~ "Yazı yada sayfa düzenlerken burada seçilen gruplar default olarak seçili "
+#~ "gelirler."
+
+#~ msgid "Which groups can use the plugin ?:"
+#~ msgstr "Eklentiyi hangi gruplar kullanabilir?:"
+
+#~ msgid ""
+#~ "Which group would you like to empower: text editing section groups the "
+#~ "authority to use the selection field"
+#~ msgstr ""
+#~ "Hangi gruplara yetki vermek istersiniz: yazı düzenleme bölümünde grup "
+#~ "seçme alanını kullanabilme yetkisi"
+
+#~ msgid "Articles out of whack for the default groups:"
+#~ msgstr "Ayarsız yazılar için default gruplar:"
+
+#~ msgid "Disable default for post v.s"
+#~ msgstr "Default olarak devre disi birak secenegi secili olsun mu?"
+
+#~ msgid ""
+#~ "Older posts and pages, If you have to choose the groups you want to show "
+#~ "for settings will apply here."
+#~ msgstr ""
+#~ "Eski yazılar ve sayfalar için göstermek istediğiniz grupları seçmemiş "
+#~ "iseniz buradaki ayarlar geçerli olacaktır."
+
+#~ msgid "Delete groups:"
+#~ msgstr "Gruplari sil:"
+
+#~ msgid ""
+#~ "You can choose the group you want to delete. There is no turning back, "
+#~ "I'm telling you :)"
+#~ msgstr ""
+#~ "Silmek istediğiniz grupları seçebilirsiniz. Geri dönüşü yoktur, benden "
+#~ "söylemesi :)"
+
+#~ msgid "Add a new group"
+#~ msgstr "Yeni grup ekle"
+
+#~ msgid "Adding new groups can give authorization desired."
+#~ msgstr "Yeni grup ekleyerek istediğiniz yetkileri verebilirsiniz."
+
+#~ msgid "Explanation for the secret articles"
+#~ msgstr "Gizli yazılar için açıklaması"
+
+#~ msgid "You can change the description of the parts of secret writing."
+#~ msgstr "Gizli yazıların açıklama kısımlarını buradan değiştirebilirsiniz."
+
+#~ msgid "Entries will be redirected to the page link"
+#~ msgstr "Yazılar için yönlendirilecek sayfa linki"
+
+#~ msgid "Hidden articles will be redirected to the page your link text."
+#~ msgstr "Gizlenen yazılar için yönlendirilecek sayfa linkini yazınız"
+
+#~ msgid "Categories and tags will be redirected to the page link"
+#~ msgstr "Kategori ve etiketler için yönlendirilecek sayfa linki"
+
+#~ msgid ""
+#~ "Hidden categories, and tags will be redirected to the page you link to "
+#~ "article"
+#~ msgstr ""
+#~ "Gizlenen kategori ve etiketler için yönlendirilecek sayfa linkini yazınız"
+
+#~ msgid "Who can see this site?"
+#~ msgstr "Bu siteyi kimler görebilir?"
+
+#~ msgid ""
+#~ "Group without the approval of the designated page, are directed (above)"
+#~ msgstr ""
+#~ "Burada secili olmayan gruplar sitede hic bir islem yapamazlar ve "
+#~ "yonlendirme sayfasina yonlendirilirler.."
+
+#~ msgid "Update"
+#~ msgstr "Guncelle"
+
+#~ msgid "Kuaza show group role options"
+#~ msgstr "Kuaza Sayfaya ozel grup ayarlari"
+
+#~ msgid "Who can see this page?"
+#~ msgstr "Bu sayfayı kimler görebilir?"
+
+#~ msgid "Disable k_hidden_group plugin for this post!"
+#~ msgstr "Bu sayfa için k_group gizleme eklentisini devredisi bırak!"
+
+#~ msgid "Disable for this post"
+#~ msgstr "Bu yazı için devredisi bırak!"
+
+#~ msgid "Disable for hidden option"
+#~ msgstr "Bu sayfa için devredisi bırak!"
